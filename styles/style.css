@@ -1,0 +1,29 @@
+body {
+    font-family: "Assistant";
+    margin: 160px;
+    background-color: violet;
+}
+
+ul {
+    color: blueviolet;
+  }
+
+ul {
+  border: 2px dotted powderblue;
+  padding: 30px;
+  font-size: 100%;
+  background-color: yellow;
+}
+
+p {
+  border: 2px dashed black;
+  padding: 30px;
+  background-color: green;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
